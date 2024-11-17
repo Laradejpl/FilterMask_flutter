@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40">
+  <!-- Left lens -->
+  <circle cx="25" cy="20" r="15" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Right lens -->
+  <circle cx="75" cy="20" r="15" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Bridge -->
+  <line x1="40" y1="20" x2="60" y2="20" stroke="black" stroke-width="2"/>
+  <!-- Temple pieces -->
+  <line x1="10" y1="20" x2="0" y2="15" stroke="black" stroke-width="2"/>
+  <line x1="90" y1="20" x2="100" y2="15" stroke="black" stroke-width="2"/>
+</svg>
